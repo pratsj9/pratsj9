@@ -5,38 +5,38 @@
   </a>
 </div>
 
-# [cite_start]🚀 Hello, I'm Pratik Joshi [cite: 3]
+## 🚀 Hello, I'm Pratik Joshi
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXdibG9scWR4Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpZmh5X3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBwazBkbzUxaXF2YXY0ODc2ZDZsY2tpNmx3anhuaHptNGZ1emJjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gDmwF2ob9HNOqXKX5/giphy.gif"/>
 
-[cite_start]Senior Software Engineer with 9+ years of experience [cite: 5] [cite_start]in building distributed backend systems and Kubernetes-native Java applications[cite: 6]. [cite_start]Member of **Team S.P.E.C.T.R.E**.
+Senior Software Engineer with 9+ years of experience in building distributed backend systems and Kubernetes-native Java applications.
 
-- [cite_start]📡 **Currently Scaling:** Entitlement Server platforms for global carriers[cite: 34, 35].
-- [cite_start]⚙️ **Core Expertise:** Java 21 [cite: 15][cite_start], Spring Boot 4 [cite: 16][cite_start], and K8s Orchestration.
-- [cite_start]🤖 **Experimenting:** Agentic AI, Spring AI[cite: 28], and MCP architectures.
-- [cite_start]📜 **Certified:** CKAD (Certified Kubernetes Application Developer)[cite: 66].
+- 📡 **Currently Scaling:** Entitlement Server platforms for global carriers.
+- ⚙️ **Core Expertise:** Java 21, Spring Boot 4, and K8s Orchestration.
+- 🤖 **Experimenting:** Agentic AI, Spring AI, and MCP architectures.
+- 📜 **Certified:** CKAD (Certified Kubernetes Application Developer).
 
 ---
 
 ## 🛠️ Tech Stack & Toolbox
 
 ### Languages & Backend
-![Java|90](https://img.shields.io/badge/-Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff) ![Spring|136](https://img.shields.io/badge/-Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![Quarkus](https://img.shields.io/badge/-Quarkus-ff0000?style=for-the-badge&logo=quarkus&logoColor=ffffff)
+![Java|90](https://img.shields.io/badge/-Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff) ![Spring|136](https://img.shields.io/badge/-Spring_Boot_4-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff) ![Quarkus](https://img.shields.io/badge/-Quarkus-ff0000?style=for-the-badge&logo=quarkus&logoColor=ffffff) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=ffffff)
 
 ### Cloud & DevOps
-![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff) ![GitLab](https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=ffffff)
+![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=ffffff) ![GitLab](https://img.shields.io/badge/-GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=ffffff) ![OpenShift](https://img.shields.io/badge/-OpenShift-EE3124?style=for-the-badge&logo=redhat&logoColor=ffffff) ![Rancher](https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=ffffff) ![RKE](https://img.shields.io/badge/-RKE-0075A8?style=for-the-badge&logo=rancher&logoColor=ffffff)
 
 ### AI & Agentic
-![Spring AI|73](https://img.shields.io/badge/-Spring_AI-6DB33F?style=for-the-badge) ![Claude Code|100](https://img.shields.io/badge/-Claude_Code-7B2FF7?style=for-the-badge) ![LangChain|123](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain)
+![Spring AI|73](https://img.shields.io/badge/-Spring_AI-6DB33F?style=for-the-badge) ![Claude Code|100](https://img.shields.io/badge/-Claude_Code-7B2FF7?style=for-the-badge) ![LangChain|123](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain) ![Langchain4j](https://img.shields.io/badge/-Langchain4j-2C3E50?style=for-the-badge) ![Embabel](https://img.shields.io/badge/-Embabel-FF6B35?style=for-the-badge)
 
 ---
 
 ## 🌍 Global Impact & Open Source
 
-* [cite_start]**MWC 2026 Showcase:** Delivered Firebase Phone Number Verification (FPNV) with Google[cite: 37, 38].
-* [cite_start]**Industry First:** Engineered Europe’s first cross-platform eSIM transfer logic for iOS/Android[cite: 36].
-* [cite_start]**Optimization:** Scaled throughput by **125%** and reduced deployment velocity by **60%**[cite: 22, 24].
-* [cite_start]**Architecture Governance:** Implementing `Arch-Unit` to automate structural integrity across services[cite: 23].
+* **MWC 2026 Showcase:** Delivered Firebase Phone Number Verification (FPNV) with Google.
+* **Industry First:** Engineered Europe’s first cross-platform eSIM transfer logic for iOS/Android.
+* **Optimization:** Scaled throughput by **125%** and reduced deployment velocity by **60%**.
+* **Architecture Governance:** Implementing `Arch-Unit` to automate structural integrity across services.
 
 ---
 
@@ -49,22 +49,13 @@
 
 ---
 
-## 📂 Featured Repositories
-
-| Project | Stack | Description |
-|:--- |:--- |:--- |
-| **doquery** | Java | RAG PDF query app using Hexagonal Architecture. |
-| **openapi-forge** | Java | Client code generation utilizing JavaPoet. |
-| **pi-nas** | Shell | Transforming a Raspberry Pi 4B into a robust NAS. |
-| **ngwtc** | C++ | Water tank controller leveraging ESP32 and FreeRTOS. |
-
----
-
 ## 🔭 Beyond The IDE
 
-* 🌌 **Astronomy & Space Science:** Passionate about cosmic exploration.
-* 🎹 **Digital Piano:** Composing and visualizing music via MIDI.
-* 🌿 **Nature & Philosophy:** Exploring the intersection of AI and natural ecosystems.
+* � **Computer Gaming:** Immersed in competitive and strategy gaming.
+* 🔧 **Hardware Assembling:** Building and customizing PC systems and components.
+* ⚽ **Football:** Passionate about the beautiful game.
+* 🏎️ **Formula 1:** Following the pinnacle of motorsport competition.
+* 🚴 **Bike Rides:** Exploring landscapes through bike adventures.
 
 ---
 
@@ -72,6 +63,5 @@
 
 ### Build // Secure // Innovate
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)]() [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=outlook)](mailto:pratsj9@live.in)
-
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pratik-joshi-in/) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=outlook)](mailto:pratsj9@live.in)
 </div>
