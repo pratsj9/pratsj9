@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/tarunvx">
+  <a href="https://github.com/pratsj9">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Build+//+Secure+//+Innovate;Senior+Backend+Engineer;K8s+Native+Developer;AI+Systems+Architect;&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
